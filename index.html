@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PLAYIDTV - Live Channels</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="video-player-row">
+        <div id="video-player-container">
+            </div>
+    </div>
+    
+    <div id="controls-row">
+        <div id="controls-section">
+            <button id="manage-playlists-btn">Manage Playlists</button>
+            <select id="playlist-selector"></select>
+        </div>
+    </div>
+
+    <div id="main-content">
+        <div id="group-tabs-row">
+            <div id="group-tabs">
+            </div>
+        </div>
+        
+        <div id="channel-list-row">
+            <div id="channel-list">
+                <p>Loading channels...</p>
+            </div>
+        </div>
+    </div>
+    
+    <div id="custom-playlist-menu">
+        <div class="menu-content">
+            <h3>Manage Playlists</h3>
+            
+            <div class="add-playlist-section">
+                <input type="text" id="new-playlist-name" placeholder="Playlist Name">
+                <input type="text" id="new-playlist-source" placeholder="URL or Local File (e.g., playlist/file.m3u)">
+                <button id="add-playlist-btn">Add Playlist</button>
+            </div>
+            
+            <div id="playlist-list-container">
+                <ul id="playlist-list">
+                    </ul>
+            </div>
+
+            <button id="close-menu-btn">Done</button>
+        </div>
+    </div>
+    
+    <script src="main.js"></script>
+</body>
+</html>

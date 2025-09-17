@@ -1,0 +1,245 @@
+body {
+    background-color: #111;
+    color: #eee;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* แถวที่ 1: หน้าต่างวิดีโอถูกตรึงไว้ด้านบน */
+#video-player-row {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    background-color: #111; /* เพิ่มเพื่อไม่ให้เห็นเนื้อหาด้านหลัง */
+}
+
+#video-player-container {
+    width: 320px;
+    height: 180px;
+    background-color: #000;
+}
+
+#video-player-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* แถวที่ 2: เมนูอยู่ด้านขวา */
+#controls-row {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+    margin-top: 200px; /* เพิ่มระยะห่างจาก video player ที่ถูกตรึงไว้ */
+}
+
+#playlist-selector {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+#manage-playlists-btn {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* แถว 3 และ 4: กลุ่มและช่องรายการ */
+#main-content {
+    padding: 20px;
+}
+
+#group-tabs-row {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center; /* จัดกึ่งกลาง */
+}
+
+#group-tabs {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.tab-button {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 8px 12px;
+    margin-right: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 10px; /* แก้ไขขนาด font */
+}
+
+.tab-button.active {
+    background-color: #444;
+}
+
+#channel-list-row {
+    padding-top: 10px;
+}
+
+/* แก้ไขขนาดช่องรายการให้เล็กลง */
+#channel-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+}
+
+.channel-item {
+    background-color: #272727;
+    border: 1px solid #555;
+    border-radius: 8px;
+    padding: 4px;
+    width: 60px; /* ขนาดของกล่องช่องรายการ */
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.channel-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.channel-image {
+    width: 60px; /* แก้ไขขนาดรูปภาพให้พอดี */
+    height: 60px;
+    object-fit: contain;
+    border-radius: 4px;
+}
+
+.channel-name {
+    margin-top: 1px;
+    font-size: 8px; /* แก้ไขขนาด font */
+    font-weight: normal; /* แก้ไขไม่ให้เป็นตัวหนา */
+}
+
+/* Custom Playlist Menu */
+#custom-playlist-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1001;
+}
+
+.menu-content {
+    background-color: #1a1a1a;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 90%;
+    max-width: 500px;
+    color: #fff;
+}
+
+.menu-content h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.add-playlist-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.menu-content input[type="text"],
+.menu-content input[type="url"] {
+    padding: 8px;
+    border: 1px solid #444;
+    background-color: #222;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.menu-content button {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: normal;
+}
+
+#add-playlist-btn {
+    background-color: #1471be;
+    color: #fff;
+}
+
+#close-menu-btn {
+    background-color: #dc3545;
+    color: #fff;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#playlist-list-container {
+    max-height: 250px;
+    overflow-y: auto;
+    border: 1px solid #555;
+    border-radius: 4px;
+    background-color: #222;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#playlist-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#playlist-list li {
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.playlist-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.playlist-urls span {
+    font-size: 12px;
+    color: #bbb;
+    word-break: break-all;
+}
+
+.remove-btn {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+}

@@ -1,6 +1,6 @@
 let allChannels = [];
 let defaultPlaylists = [
-    { name: "Local Playlist 1", type: "local", source: "playlist-1.m3u" },
+    { name: "Local Playlist 1", type: "local", source: "playlist/playlist-1.m3u" },
     { name: "Pastebin Playlist", type: "url", source: "https://pastebin.com/raw/2z6DGDgH" }
 ];
 let currentPlaylistName = "";
@@ -315,4 +315,5 @@ document.addEventListener('DOMContentLoaded', () => {
         const firstPlaylist = defaultPlaylists[0];
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
+
 });

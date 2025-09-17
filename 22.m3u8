@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://75697-mouse.cloud-x.me:80/play/live.php?mac=A0:BB:3E:05:24:C8&stream=1660492&extension=ts

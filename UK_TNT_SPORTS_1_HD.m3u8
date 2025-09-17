@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://line.stayconnected.pro:80/play/live.php?mac=A0:BB:3E:79:55:76&stream=79486&extension=m3u8
-#EXT-X-ENDLIST

@@ -243,3 +243,46 @@ body {
     cursor: pointer;
     font-size: 12px;
 }
+
+#controls-section {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; /* จัดให้ปุ่มเรียงกันในแนวนอน */
+    padding: 10px 20px;
+}
+
+/* เพิ่ม Style สำหรับปุ่มใหม่ */
+.external-link-btn {
+    background-color: #007bff; /* สีน้ำเงินสำหรับปุ่ม */
+    color: #fff;
+    text-decoration: none; /* ลบเส้นใต้ลิงก์ */
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-right: 10px; /* เว้นระยะห่างจากปุ่มถัดไป */
+    font-size: 14px;
+}
+
+.external-link-btn:hover {
+    background-color: #0056b3; /* สีเข้มขึ้นเมื่อเอาเมาส์ไปชี้ */
+}
+
+#playlist-selector {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+#manage-playlists-btn {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}

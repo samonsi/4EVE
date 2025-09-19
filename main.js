@@ -1,9 +1,8 @@
 let allChannels = [];
 let defaultPlaylists = [
     //{ name: "Local Playlist 1", type: "local", source: "playlist.m3u" }
-    { name: "ONE", type: "url", source: "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/A1x.m3u8" },
-    { name: "TWO", type: "url", source: "https://pastebin.com/raw/2z6DGDgH" },
-    { name: "SPOT ONE", type: "local", source: "playlist-ballthai.m3u" }
+    { name: "Free TV", type: "local", source: "playlist-1.m3u" }
+    { name: "SPOT", type: "local", source: "playlist-ballthai.m3u" }
 ];
 let currentPlaylistName = "";
 
@@ -319,6 +318,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
 
 

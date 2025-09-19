@@ -1,7 +1,7 @@
 let allChannels = [];
 let defaultPlaylists = [
     //{ name: "Local Playlist 1", type: "local", source: "playlist.m3u" }
-    { name: "ONE", type: "url", source: "https://pastebin.com/raw/Fz6Hu0aD" },
+    { name: "ONE", type: "url", source: "https://gist.githubusercontent.com/aglobus/a21de5cd36294e4db057450b0e7988ff/raw/f630e87bf10fc12d49409cd4c5a1a107d11bd6d0/playlist.m3u" },
     { name: "TWO", type: "url", source: "https://pastebin.com/raw/2z6DGDgH" },
     { name: "SPOT ONE", type: "local", source: "playlist-ballthai.m3u" }
 ];
@@ -319,6 +319,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
 
 

@@ -47,7 +47,7 @@ function renderPlaylistSelector() {
     
     const manageOption = document.createElement("option");
     manageOption.value = "manage";
-    manageOption.textContent = "Manage Playlists";
+    manageOption.textContent = "เลือก Playlists";
     playlistSelector.appendChild(manageOption);
 
     allPlaylists.forEach(playlist => {
@@ -317,3 +317,4 @@ document.addEventListener('DOMContentLoaded', () => {
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
 });
+

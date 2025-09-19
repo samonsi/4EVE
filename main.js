@@ -1,7 +1,7 @@
 let allChannels = [];
 let defaultPlaylists = [
     //{ name: "Local Playlist 1", type: "local", source: "playlist.m3u" }
-    { name: "Free TV", type: "local", source: "playlist-1.m3u" }
+    { name: "Free TV", type: "local", source: "playlist-1.m3u" },
     { name: "SPOT", type: "local", source: "playlist-ballthai.m3u" }
 ];
 let currentPlaylistName = "";
@@ -318,6 +318,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
 
 

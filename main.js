@@ -1,8 +1,8 @@
 let allChannels = [];
 let defaultPlaylists = [
     //{ name: "Local Playlist 1", type: "local", source: "playlist.m3u" }
-   { name: "Pastebin Playlist", type: "url", source: "https://pastebin.com/raw/2z6DGDgH" },
-   { name: "Local Playlist 1", type: "local", source: "playlist-ballthai.m3u" }
+   { name: "Pastebin ONE", type: "url", source: "https://pastebin.com/raw/2z6DGDgH" },
+   { name: "SPOT ONE", type: "local", source: "playlist-ballthai.m3u" }
 ];
 let currentPlaylistName = "";
 
@@ -318,6 +318,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
 
 

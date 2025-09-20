@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>สมรศรี - Live TV</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,shrink-to-fit=no">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body><!DOCTYPE html>
-<html>
-<head>
     <title>PLAYIDTV - Player</title>
     <style>
         body {
@@ -48,7 +41,7 @@
         const channelName = decodeURIComponent(urlParams.get('channelName'));
 
         if (source) {
-            // Add CORS Proxy to the video source URL directly
+            // Apply CORS Proxy directly to the video source URL
             const proxyUrl = "https://api.allorigins.win/raw?url=";
             const finalSource = source.startsWith("http") ? proxyUrl + encodeURIComponent(source) : source;
 
@@ -84,55 +77,3 @@
     </script>
 </body>
 </html>
-    <div id="video-player-row">
-        <div id="video-player-container">
-            </div>
-    </div>
-    
-    <div id="controls-row">
-        <div id="controls-section">
-            <a href="https://movies-sandy-chi.vercel.app/index.html" target="_blank" class="external-link-btn">
-                ดูหนัง
-            </a>
-            <button id="manage-playlists-btn">Playlists</button>
-            <select id="playlist-selector"></select>
-        </div>
-    </div>
-
-    <div id="main-content">
-        <div id="group-tabs-row">
-            <div id="group-tabs">
-            </div>
-        </div>
-        
-        <div id="channel-list-row">
-            <div id="channel-list">
-                <p>Loading channels...</p>
-            </div>
-        </div>
-    </div>
-    
-    <div id="custom-playlist-menu">
-        <div class="menu-content">
-            <h3>Playlists Manager </h3>
-            
-            <div class="add-playlist-section">
-                <input type="text" id="new-playlist-name" placeholder="Playlist Name">
-                <input type="text" id="new-playlist-source" placeholder="URL or Local File (e.g., playlist/file.m3u)">
-                <button id="add-playlist-btn">Add Playlist</button>
-            </div>
-            
-            <div id="playlist-list-container">
-                <ul id="playlist-list">
-                    </ul>
-            </div>
-
-            <button id="close-menu-btn">Done</button>
-        </div>
-    </div>
-    
-    <script src="main.js"></script>
-</body>
-
-</html>
-

@@ -1,65 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
-#EXTVLCOPT:http-referrer=http://thaipbs-live.cdn.byteark.com/
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="ช่องทีวีดิจิตอล",ALTV
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="ช่องทีวีดิจิตอล",VIPA
-http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล",CH5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
-https://tv-live.tpchannel.org/live/tv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ช่องทีวีดิจิตอล",NationTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
-https://global-media.sooplive.com/live/workpoint/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
-https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ช่องทีวีดิจิตอล",MONO29FHD
-https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
-#EXTVLCOPT:http-referrer=https://live-cdn-hwc.ch7.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
-http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
-http://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล",PoliceTV
-http://54c241893bf39.streamlock.net:1935/policetv/policetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล",13สยามไท
-https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องทีวีดิจิตอล", สุวรรณภูมิทีวี
-http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="ช่องทีวีดิจิตอล",NBT ภาคกลาง
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id=""tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="ช่องทีวีดิจิตอล",NBT ภาคอีสาน
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="ช่องทีวีดิจิตอล",NBT ภาคเหนือ
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="ช่องทีวีดิจิตอล",NBT ภาคใต้
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",MONO29+
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-monobkp_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",ALTV4
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-altv4_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-nbt_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Mono_2025e.png",MONO29-2
+https://e109.hellotherepadawan.org/v5/CWRuCaCV2SaFvy4RaGJ44g/1757572336/4a0084c50954b30c5680d2f8b91e6c28/HuTby33SusjpKZll1gt53g/1757583016/live/lx-origin/th-mono_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AMARIN
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-amarin_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",CH3
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-ch3_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-ch5_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",CH7
+https://e111.hellotherepadawan.org/v5/JbmvmLdCM3_dBkmQWdJRNg/1757572561/4a0084c50954b30c5680d2f8b91e6c28/RwMUhZWb8ZHB8P1pF3LU_Q/1757583241/live/dx-origin/hd-ch7_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",CH8
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-ch8_480/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",ONE 31
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-gmmone_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",MCOT
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-mcot_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Mono_2025e.png",MONO 3
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-mono_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg",PPTV
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-pptv_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",THAIRATH
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-thairath_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",TPBS
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-tpbs_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",WORKPOINT
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-workpoint_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",24U
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/sd-24u_480/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM 25
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/sd-gmmchannel_480/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png",NATION
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/sd-nation_480/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",JKN 18
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-new_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",TNN
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-tnn24_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://api.bigwifegang.org/images/png/sd-tptv.png",TPTV
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-tptv_720/playlist.m3u8
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://api.bigwifegang.org/images/png/sd-tsports.png",sd-tsports
+https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-tsports_720/playlist.m3u8

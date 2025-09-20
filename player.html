@@ -67,6 +67,9 @@
                                 break;
                         }
                     }
+                    // เพิ่มคำสั่งนี้เพื่อสั่งให้วิดีโอเล่นทันที
+                player.play().catch(error => {
+                console.error("การเล่นวิดีโออัตโนมัติถูกบล็อกโดยเบราว์เซอร์:", error);
                 });
                 
             } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
@@ -83,4 +86,5 @@
     </script>
 </body>
 </html>
+
 

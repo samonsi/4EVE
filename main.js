@@ -1,8 +1,8 @@
 let allChannels = [];
 let defaultPlaylists = [
    // { name: "Pastebin Playlist", type: "url", source: "https://pastebin.com/raw/" },
-    { name: "Free TV", type: "local", source: "playlist-1.m3u" },
-    { name: "SPOT", type: "local", source: "playlist-ballthai.m3u" }
+    { name: "Free TV", type: "local", source: "freetv.m3u" },
+    { name: "SPOT", type: "local", source: "spot.m3u" }
 ];
 let currentPlaylistName = "";
 
@@ -47,7 +47,7 @@ function renderPlaylistSelector() {
     
     const manageOption = document.createElement("option");
     manageOption.value = "manage";
-    manageOption.textContent = "เลือก Playlists";
+    manageOption.textContent = "Manage Playlists";
     playlistSelector.appendChild(manageOption);
 
     allPlaylists.forEach(playlist => {
@@ -317,4 +317,3 @@ document.addEventListener('DOMContentLoaded', () => {
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
 });
-

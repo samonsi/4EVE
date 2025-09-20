@@ -21,58 +21,64 @@
             height: 100%;
         }
     </style>
-    <script src="https://cdn.jsdelivr.net/npm/@clappr/player@0.4.0/dist/clappr.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/shaka-player@2.5.10/dist/shaka-player.compiled.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/clappr/dash-shaka-playback@latest/dist/dash-shaka-playback.external.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/level-selector@latest/dist/level-selector.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/clappr-audio-selector@latest/dist/clappr-audio-selector.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
 </head>
 <body>
     <div id="player-container">
-        <div id="player"></div>
+        <video id="player" class="plyr" controls crossorigin playsinline></video>
     </div>
+    
+    <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const source = urlParams.get('source');
-        const keyId = urlParams.get('keyId');
-        const keyValue = urlParams.get('keyValue');
-        const mimeType = urlParams.get('mimeType');
         const channelName = decodeURIComponent(urlParams.get('channelName'));
 
+        const video = document.getElementById('player');
+        const player = new Plyr(video);
+
         if (source) {
-            // Apply CORS Proxy directly to the video source URL
-            const proxyUrl = "https://api.allorigins.win/raw?url=";
-            const finalSource = source.startsWith("http") ? proxyUrl + encodeURIComponent(source) : source;
-
-            let plugins = [LevelSelector, DashShakaPlayback];
-            if (typeof ClapprAudioSelector !== 'undefined') plugins.push(ClapprAudioSelector);
-            if (typeof PipPlugin !== 'undefined') plugins.push(PipPlugin);
-
-            const playerConfig = {
-                source: finalSource, // Use the proxied URL
-                autoPlay: true,
-                height: '100%',
-                width: '100%',
-                plugins: plugins,
-                parentId: '#player',
-            };
-
-            if (mimeType) playerConfig.mimeType = mimeType;
-            if (keyId && keyValue) {
-                playerConfig.shakaConfiguration = {
-                    drm: {
-                        clearKeys: {
-                            [keyId]: keyValue
+            // Check if HLS is supported
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(source);
+                hls.attachMedia(video);
+                
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    console.log("HLS Manifest Parsed!");
+                });
+                
+                // Optional: Handle HLS errors
+                hls.on(Hls.Events.ERROR, function (event, data) {
+                    if (data.fatal) {
+                        switch (data.type) {
+                            case Hls.ErrorTypes.NETWORK_ERROR:
+                                console.error("HLS Network error - trying to recover...");
+                                hls.startLoad();
+                                break;
+                            case Hls.ErrorTypes.MEDIA_ERROR:
+                                console.error("HLS Media error - trying to recover...");
+                                hls.startLoad();
+                                break;
+                            default:
+                                hls.destroy();
+                                break;
                         }
                     }
-                };
+                });
+                
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                // For native HLS support on iOS/Safari
+                video.src = source;
+            } else {
+                document.getElementById('player-container').innerHTML = '<h2>วิดีโอไม่รองรับบนเบราว์เซอร์นี้</h2>';
             }
-
-            const playerInstance = new Clappr.Player(playerConfig);
+            
             document.title = 'PLAYIDTV - ' + channelName;
         } else {
-            document.getElementById('player-container').innerHTML = '<h2>Video source not found.</h2>';
+            document.getElementById('player-container').innerHTML = '<h2>ไม่พบแหล่งที่มาของวิดีโอ</h2>';
         }
     </script>
 </body>

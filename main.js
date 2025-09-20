@@ -77,8 +77,7 @@ async function loadAndDisplayPlaylist(source, name, type) {
         let fetchUrl = source;
         if (type === "url") {
             // ใช้ proxy สำหรับ URL ภายนอก
-            fetchUrl = `https://cors-anywhere.herokuapp.com/${source}`;
-           // fetchUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(source)}`;
+            fetchUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(source)}`;
         } // ไม่ต้องเพิ่ม else if (type === "local") เพราะ source ถูกแก้ไขแล้ว
 
         const response = await fetch(fetchUrl);
@@ -205,8 +204,7 @@ function playChannel(channel) {
         keyValue: channel.key_value || ''
     });
 
-    // แก้ไขตรงนี้
-    const playerUrl = `./player.html?${params.toString()}`;
+    const playerUrl = `/4EVE/player.html?${params.toString()}`;
     
     videoPlayerContainer.innerHTML = `<iframe src="${playerUrl}" allowfullscreen></iframe>`;
 }
@@ -315,4 +313,3 @@ document.addEventListener('DOMContentLoaded', () => {
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
 });
-

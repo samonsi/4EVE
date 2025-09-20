@@ -1,8 +1,8 @@
 let allChannels = [];
 let defaultPlaylists = [
-   // { name: "Pastebin Playlist", type: "url", source: "https://pastebin.com/raw/" },
-    { name: "Free TV", type: "local", source: "freetv.m3u" },
-    { name: "SPOT", type: "local", source: "spot.m3u" }
+    // { name: "Pastebin Playlist", type: "url", source: "https://pastebin.com/raw/" },
+    { name: "Free TV", type: "local", source: "playlist/freetv.m3u" },
+    { name: "SPOT", type: "local", source: "playlist/spot.m3u" }
 ];
 let currentPlaylistName = "";
 
@@ -76,13 +76,9 @@ async function loadAndDisplayPlaylist(source, name, type) {
     try {
         let fetchUrl = source;
         if (type === "url") {
-            // โค้ดเดิมสำหรับ URL จากภายนอก
+            // ใช้ proxy สำหรับ URL ภายนอก
             fetchUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(source)}`;
-            // fetchUrl = `https://corsproxy.io/?${encodeURIComponent(source)}`;
-        } else if (type === "local") {
-            // เพิ่มโค้ดส่วนนี้เพื่อจัดการไฟล์ Local
-            fetchUrl = `playlist/${source}`;
-        }
+        } // ไม่ต้องเพิ่ม else if (type === "local") เพราะ source ถูกแก้ไขแล้ว
 
         const response = await fetch(fetchUrl);
         if (!response.ok) {
@@ -114,8 +110,6 @@ async function loadAndDisplayPlaylist(source, name, type) {
         channelListContainer.innerHTML = `<p>เกิดข้อผิดพลาดในการโหลด Playlist นี้: ${name}</p>`;
     }
 }
-
-
 
 function displayChannels(channels) {
     channelListContainer.innerHTML = "";
@@ -210,7 +204,9 @@ function playChannel(channel) {
         keyValue: channel.key_value || ''
     });
 
-    const playerUrl = `player.html?${params.toString()}`;
+    // แก้ไขตรงนี้
+    const playerUrl = `./player.html?${params.toString()}`;
+    
     videoPlayerContainer.innerHTML = `<iframe src="${playerUrl}" allowfullscreen></iframe>`;
 }
 
@@ -317,5 +313,4 @@ document.addEventListener('DOMContentLoaded', () => {
         const firstPlaylist = defaultPlaylists[0];
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
-
 });

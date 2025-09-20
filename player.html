@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>สะหมอน - Player</title>
+    <title>สมรศรี - Player</title>
     <style>
         body {
             background-color: #000;
@@ -37,8 +37,7 @@
         const channelName = decodeURIComponent(urlParams.get('channelName'));
 
         const video = document.getElementById('player');
-        const player = new Plyr(video);
-
+        
         if (source) {
             // Check if HLS is supported
             if (Hls.isSupported()) {
@@ -47,7 +46,12 @@
                 hls.attachMedia(video);
                 
                 hls.on(Hls.Events.MANIFEST_PARSED, function () {
-                    console.log("HLS Manifest Parsed!");
+                    // Start playback after the manifest is parsed
+                    const player = new Plyr(video);
+                    player.play().catch(error => {
+                        console.error("Autoplay was blocked by the browser:", error);
+                        // Optional: You can add an on-screen message here telling the user to click play.
+                    });
                 });
                 
                 // Optional: Handle HLS errors
@@ -67,14 +71,14 @@
                                 break;
                         }
                     }
-                    // เพิ่มคำสั่งนี้เพื่อสั่งให้วิดีโอเล่นทันที
-                player.play().catch(error => {
-                console.error("การเล่นวิดีโออัตโนมัติถูกบล็อกโดยเบราว์เซอร์:", error);
                 });
                 
             } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
                 // For native HLS support on iOS/Safari
                 video.src = source;
+                video.play().catch(error => {
+                    console.error("Autoplay was blocked by the browser:", error);
+                });
             } else {
                 document.getElementById('player-container').innerHTML = '<h2>วิดีโอไม่รองรับบนเบราว์เซอร์นี้</h2>';
             }
@@ -86,5 +90,3 @@
     </script>
 </body>
 </html>
-
-

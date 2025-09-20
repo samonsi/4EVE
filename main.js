@@ -77,7 +77,8 @@ async function loadAndDisplayPlaylist(source, name, type) {
         let fetchUrl = source;
         if (type === "url") {
             // ใช้ proxy สำหรับ URL ภายนอก
-            fetchUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(source)}`;
+            fetchUrl = `https://cors-anywhere.herokuapp.com/${source}`;
+           // fetchUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(source)}`;
         } // ไม่ต้องเพิ่ม else if (type === "local") เพราะ source ถูกแก้ไขแล้ว
 
         const response = await fetch(fetchUrl);
@@ -314,3 +315,4 @@ document.addEventListener('DOMContentLoaded', () => {
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
 });
+

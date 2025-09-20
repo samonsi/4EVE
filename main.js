@@ -204,7 +204,8 @@ function playChannel(channel) {
         keyValue: channel.key_value || ''
     });
 
-    const playerUrl = `/4EVE/player.html?${params.toString()}`;
+    // แก้ไขตรงนี้
+    const playerUrl = `./player.html?${params.toString()}`;
     
     videoPlayerContainer.innerHTML = `<iframe src="${playerUrl}" allowfullscreen></iframe>`;
 }

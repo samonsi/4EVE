@@ -1,96 +1,92 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>สมร- Player</title>
-    <style>
-        body {
-            background-color: #000;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-        #player-container {
-            width: 100%;
-            height: 100%;
-        }
-        #player {
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-        <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
+    <title>00 - Player</title>
+    <style>
+        body {
+            background-color: #000;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        #player-container {
+            width: 100%;
+            height: 100%;
+        }
+        #player {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css" />
 </head>
 <body>
-    <div id="player-container">
-        <video id="player" class="plyr" controls crossorigin playsinline></video>
-    </div>
-    
-        <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <div id="player-container">
+        <video id="player" class="plyr" controls crossorigin playsinline></video>
+    </div>
+    
+    <script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
-    <script>
-        const urlParams = new URLSearchParams(window.location.search);
-        const source = urlParams.get('source');
-        const channelName = decodeURIComponent(urlParams.get('channelName'));
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const source = urlParams.get('source');
+        const channelName = decodeURIComponent(urlParams.get('channelName'));
 
-        const video = document.getElementById('player');
-        
-        if (source) {
-            // Check if HLS is supported
-            if (Hls.isSupported()) {
-                // Apply CORS Proxy directly to the HLS source URL
-                const proxyUrl = "https://api.allorigins.win/raw?url=";
-                const finalSource = source.startsWith("http") ? proxyUrl + encodeURIComponent(source) : source;
-
-                const hls = new Hls();
-                hls.loadSource(finalSource);
-                hls.attachMedia(video);
-                
-                hls.on(Hls.Events.MANIFEST_PARSED, function () {
-                    const player = new Plyr(video);
-                    player.play().catch(error => {
-                        console.error("Autoplay was blocked by the browser:", error);
-                    });
-                });
-                
-                hls.on(Hls.Events.ERROR, function (event, data) {
-                    if (data.fatal) {
-                        switch (data.type) {
-                            case Hls.ErrorTypes.NETWORK_ERROR:
-                                console.error("HLS Network error - trying to recover...");
-                                hls.startLoad();
-                                break;
-                            case Hls.ErrorTypes.MEDIA_ERROR:
-                                console.error("HLS Media error - trying to recover...");
-                                hls.startLoad();
-                                break;
-                            default:
-                                hls.destroy();
-                                break;
-                        }
-                    }
-                });
-                
-            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-                // For native HLS support on iOS/Safari
-                video.src = source;
-                video.addEventListener('loadedmetadata', function() {
-                    const player = new Plyr(video);
-                    player.play().catch(error => {
-                        console.error("Autoplay was blocked by the browser:", error);
-                    });
-                });
-            } else {
-                document.getElementById('player-container').innerHTML = '<h2>วิดีโอไม่รองรับบนเบราว์เซอร์นี้</h2>';
-            }
-            
-            document.title = 'PLAYIDTV - ' + channelName;
-        } else {
-            document.getElementById('player-container').innerHTML = '<h2>ไม่พบแหล่งที่มาของวิดีโอ</h2>';
-        }
-    </script>
+        const video = document.getElementById('player');
+        
+        if (source) {
+            // Check if HLS is supported
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(source);
+                hls.attachMedia(video);
+                
+                hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                    // Start playback after the manifest is parsed
+                    const player = new Plyr(video);
+                    player.play().catch(error => {
+                        console.error("Autoplay was blocked by the browser:", error);
+                        // Optional: You can add an on-screen message here telling the user to click play.
+                    });
+                });
+                
+                // Optional: Handle HLS errors
+                hls.on(Hls.Events.ERROR, function (event, data) {
+                    if (data.fatal) {
+                        switch (data.type) {
+                            case Hls.ErrorTypes.NETWORK_ERROR:
+                                console.error("HLS Network error - trying to recover...");
+                                hls.startLoad();
+                                break;
+                            case Hls.ErrorTypes.MEDIA_ERROR:
+                                console.error("HLS Media error - trying to recover...");
+                                hls.startLoad();
+                                break;
+                            default:
+                                hls.destroy();
+                                break;
+                        }
+                    }
+                });
+                
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                // For native HLS support on iOS/Safari
+                video.src = source;
+                video.play().catch(error => {
+                    console.error("Autoplay was blocked by the browser:", error);
+                });
+            } else {
+                document.getElementById('player-container').innerHTML = '<h2>วิดีโอไม่รองรับบนเบราว์เซอร์นี้</h2>';
+            }
+            
+            document.title = 'PLAYIDTV - ' + channelName;
+        } else {
+            document.getElementById('player-container').innerHTML = '<h2>ไม่พบแหล่งที่มาของวิดีโอ</h2>';
+        }
+    </script>
 </body>
 </html>

@@ -77,7 +77,8 @@ async function loadAndDisplayPlaylist(source, name, type) {
         let fetchUrl = source;
         if (type === "url") {
             // โค้ดเดิมสำหรับ URL จากภายนอก
-            fetchUrl = `https://corsproxy.io/?${encodeURIComponent(source)}`;
+            fetchUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(source)}`;
+            // fetchUrl = `https://corsproxy.io/?${encodeURIComponent(source)}`;
         } else if (type === "local") {
             // เพิ่มโค้ดส่วนนี้เพื่อจัดการไฟล์ Local
             fetchUrl = `playlist/${source}`;
@@ -316,4 +317,5 @@ document.addEventListener('DOMContentLoaded', () => {
         const firstPlaylist = defaultPlaylists[0];
         loadAndDisplayPlaylist(firstPlaylist.source, firstPlaylist.name, firstPlaylist.type);
     }
+
 });

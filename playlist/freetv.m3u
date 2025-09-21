@@ -1,49 +1,466 @@
 #EXTM3U
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",MONO29+
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-monobkp_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",ALTV4
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-altv4_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-nbt_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Mono_2025e.png",MONO29-2
-https://e109.hellotherepadawan.org/v5/CWRuCaCV2SaFvy4RaGJ44g/1757572336/4a0084c50954b30c5680d2f8b91e6c28/HuTby33SusjpKZll1gt53g/1757583016/live/lx-origin/th-mono_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AMARIN
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-amarin_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",CH3
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-ch3_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-ch5_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",CH7
-https://e111.hellotherepadawan.org/v5/JbmvmLdCM3_dBkmQWdJRNg/1757572561/4a0084c50954b30c5680d2f8b91e6c28/RwMUhZWb8ZHB8P1pF3LU_Q/1757583241/live/dx-origin/hd-ch7_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",CH8
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-ch8_480/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png",ONE 31
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-gmmone_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",MCOT
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-mcot_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Mono_2025e.png",MONO 3
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-mono_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg",PPTV
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-pptv_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",THAIRATH
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/hd-thairath_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",TPBS
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-tpbs_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",WORKPOINT
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/hd-workpoint_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",24U
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/sd-24u_480/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",GMM 25
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/sd-gmmchannel_480/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png",NATION
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/dx-origin/sd-nation_480/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",JKN 18
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-new_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",TNN
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-tnn24_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://api.bigwifegang.org/images/png/sd-tptv.png",TPTV
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-tptv_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://api.bigwifegang.org/images/png/sd-tsports.png",sd-tsports
-https://e112.hellotherepadawan.org/v5/aBQ4nfdPO-BEHfEfN1UQlQ/1757566281/89faebf7d5005b099c70970b6c43fae1/U7dn51NHpCKwLlkX4-14ZA/1757576961/live/vx-origin/sd-tsports_720/playlist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://api.bigwifegang.org/images/png/sd-tsports.png",test
+
+#EXTINF:-1 tvg-id="Channel3.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+
+#EXTINF:-1 tvg-id="ThaiTV5HD1.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png", CH5 HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBTVChannel7.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8kMvzGt1/IMG-2393.png", CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png", Ch8 
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png", MCOT HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT2 HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/nLfbZvzV/IMG-2399.png", NBT 11 ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/xTN4CcBX/IMG-2401.png", NBT 11 ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fTY1CVC6/IMG-2403.png", NBT 11 ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5t2GfnJV/IMG-2405.png", NBT 11 ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนังพากย์ไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mono29.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png", MONO29 (หนัง Soundtrack บรรยายไทย)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Amarin_TV_HD_34_Logo.svg/2560px-Amarin_TV_HD_34_Logo.svg.png", Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/2560px-Thairath_TV32.svg.png", Thairath TV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS3.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PPTVHD36.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XvRPB9Sp/IMG-2542.png", PPTV HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png", ONE31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png", GMM25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+
+#EXTINF:-1 tvg-id="Workpoint23.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png", Workpoint TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png", Nation TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+
+#EXTINF:-1 tvg-id="TNN.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Njsz7k39/IMG-1845.png", TNN 16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+
+#EXTINF:-1 tvg-id="News1.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/CdyT1DN4/IMG-2411.png", News 1
+https://server1.streamssl.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/qMJ7ff5h/IMG-3145.png", Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/C5vYBTHJ/IMG-1868.png", 13 Siam Thai 
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/FRpsQhRP/IMG-2711.png", TTD1
+https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/gc5bLxfV/IMG-2712.png", TTD2
+https://psiiptv-b.sky-cdn.com/ttd02-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/mr5W3hPW/IMG-2713.png", TTD3
+https://psiiptv-b.sky-cdn.com/ttd03-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Xvd8hhmY/IMG-2548.png", TTD4 (หนังพากย์อีสาน)
+https://psiiptv-b.sky-cdn.com/ttd04-Playlist/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/NFfkK0MK/IMG-2550.png", TTD5
+https://psiiptv-b.sky-cdn.com/ttd05-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/W1YHCCTM/IMG-2714.png", TTD6
+https://psiiptv-b.sky-cdn.com/ttd06-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Dz5SXfRG/IMG-2415.png", TTD7
+https://psiiptv-b.sky-cdn.com/ttd07-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Cx5hQC2R/IMG-2418.png", TTD8
+https://psiiptv-b.sky-cdn.com/ttd08-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Y9zfKLYJ/IMG-2715.png", TTD9
+https://psiiptv-b.sky-cdn.com/ttd09-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/BQTg2yjq/IMG-2717.png", TTD10
+https://psiiptv-b.sky-cdn.com/ttd10-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5tmsQvxm/IMG-2421.png", TTD11
+https://psiiptv-b.sky-cdn.com/ttd11-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/rwDxknbX/IMG-3264.png", TTD12
+https://psiiptv-b.sky-cdn.com/ttd12-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/6Tsrm5W3/IMG-2423.png", สยาม
+https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/yxRQdGWD/IMG-2425.png", ลิโด้
+https://lb1-live-mv.v2h-cdn.com/live_vod/lido.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/NMH77HtV/IMG-2427.png", สกาล่า
+https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/28YzHbS4/IMG-2722.png", V2H1
+https://psiiptv-b.sky-cdn.com/v2h1-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kgTZ8ZfZ/IMG-2068.png", V2H2
+https://psiiptv-b.sky-cdn.com/v2h2-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/R05GfBRV/IMG-2723.png", V2H3
+https://psiiptv-b.sky-cdn.com/v2h3-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/y8J0vbdg/IMG-2720.png", V2H4
+https://psiiptv-b.sky-cdn.com/v2h4-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/cLZcTNjD/IMG-2724.png", V2H5
+https://psiiptv-b.sky-cdn.com/v2h5-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/NfRcmg85/IMG-2719.png", V2H6
+https://psiiptv-b.sky-cdn.com/v2h6-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/pLpLwmgy/IMG-2725.png", V2H7
+https://psiiptv-b.sky-cdn.com/v2h7-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RV2k0qWW/IMG-2726.png", V2H8
+https://psiiptv-b.sky-cdn.com/v2h8-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/nzLR2ts8/IMG-2727.png", V2H9
+https://psiiptv-b.sky-cdn.com/v2h9-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Mp0FKH7m/IMG-2718.png", V2H10
+https://psiiptv-b.sky-cdn.com/v2h10-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/LXq7Rpmt/IMG-2729.png", V2H11
+https://psiiptv-b.sky-cdn.com/v2h11-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/YSTR6mwF/IMG-2731.png", V2H12
+https://psiiptv-b.sky-cdn.com/v2h12-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zXdnwRCf/IMG-2732.png", V2H13
+https://psiiptv-b.sky-cdn.com/v2h13-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/15T8500D/IMG-2733.png", V2H14
+https://psiiptv-b.sky-cdn.com/v2h14-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/nL1V7qmR/IMG-2734.png", V2H15
+https://psiiptv-b.sky-cdn.com/v2h15-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/63sPMnRJ/IMG-1854.png", Cool Channel 
+https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+#EXTINF:-1 tvg-id="True4U.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kGvp2ySq/IMG-2563.png", True 4U
+https://iptv36.vercel.app/api/true.m3u8?channel=true4u
+
+#EXTINF:-1 tvg-id="JKN18.th" group-title="🇹🇭 THAILAND" tvg-logo="https://shorturl.asia/WmwnB", JKN 18 
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+
+#EXTINF:-1 tvg-id="Zee.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/BbcqTvHT/IMG-2990.png", Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CH8.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RFVxDzJm/IMG-1839.png", Ch 8 Thailand 
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GtRYFgq8/IMG-2429.png", Chiangrai Channel 
+http://live.thaitvstream.com/play/chiangrai/index.m3u8
+
+#EXTINF:-1 tvg-id="Vipa.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/DZjt5L9v/IMG-2681.png", VIPA
+https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS4.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/c4pRMRr7/IMG-1847.png", ALTV 4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/BvDfBkPC/IMG-2615.png", Siam News TV
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/tTnpwpbY/IMG-3097.png", Thai News 
+https://live.thaitvstream.com/play/thainews/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/LsTzr0jt/IMG-2585.png", มวลชนทีวี
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/hvsjcMx3/IMG-3443.png", Mr.Bean Classic 
+https://shorturl.asia/jAf5V
+
+#EXTINF:-1 tvg-id="FW.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XvhXpRSc/IMG-2613.png", Gags 
+https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Wz7qzMTG/IMG-2061.png", BC Boomerang Cartoon 
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zDCqL8v7/IMG-2635.png", Boom
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Fuik.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/7LGkYBbv/IMG-2946.png", Cartoon 
+http://49.0.64.96:8007/Cartoonumi
+
+#EXTINF:-1 tvg-id="Disney.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/L5pDYP1C/IMG-2139.png", Disney Channel
+http://212.102.60.231/DISNEY/index.m3u8
+
+#EXTINF:-1 tvg-id="Dreamworks.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/xCPHdrVt/IMG-2929.png", Dreamworks
+http://xott.live:8080/03459612396/9512563/350936
+
+#EXTINF:-1 tvg-id="CN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/MZr3y7sp/IMG-2974.png", Cartoon Network 
+http://150.129.9.194:8089/83/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/0NMWJyk9/IMG-3451.webp", Nick Jr.
+http://150.129.9.194:8089/86/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Kartoon.uk" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4m9F12F/IMG-2443.png", Kartoon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=584
+
+#EXTINF:-1 tvg-id="Moonbug.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/qvTvttzq/IMG-2049.png", Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ketchup.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/sXcXy3Vx/IMG-2048.png", Ketchup TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+
+#EXTINF:-1 tvg-id="Zoomoo.au" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kDrkX96L/IMG-2007.png", Zoomoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/JzMTJMz4/IMG-3549.png", Cartoonito
+http://tmptv.sunduk.tv/CH443/index.m3u8
+
+#EXTINF:-1 tvg-id="Babyshark.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/2SdyBfGr/IMG-2793.png", Baby Shark TV
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kidsflix.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3Jsb5gQf/IMG-2751.png", KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fTyCySzV/IMG-3776.png", Cinebox: Animation 
+http://1tv41.icu:8080/ahx4CN/815233/119420
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/7LWQP17Y/IMG-3772.png", LEGO Kids TV
+https://shorturl.asia/rzC82
+
+#EXTINF:-1 tvg-id="Tobot.kr" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GmN7CNFZ/IMG-2853.png", TOBOT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5480
+
+#EXTINF:-1 tvg-id="Barbie.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/8CBnLpsM/IMG-3032.png", Barbie and Friends 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11075
+
+#EXTINF:-1 tvg-id="Shaun.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/MpvvDsK3/IMG-2662.png", Shaun the Sheep & Friends
+https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/MGhQMRqs/IMG-3760.png", TOM & JERRY
+http://nocable.cc:8080/2gKWFe/362900/125635
+
+#EXTINF:-1 tvg-id="Bean.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Ls6Z8Zhf/IMG-2441.png", Mr.bean Cartoon 
+https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/pXJFnv8v/IMG-2534.png", ไทยไชโย
+https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3wMR6SDt/IMG-2515.png", ลูกทุ่งเน็ตเวิร์ค
+http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/vmTZdckc/IMG-2739.png", โอ้! เมืองลาว
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FW.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/CxNv6nGZ/IMG-1838.png", T Sport 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/kXJrqNvc/IMG-2530.png", MVGO Sports
+https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Moo.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/s29B3qLD/IMG-3325.png", Hi Sport
+http://49.0.64.96:8007/HiSports
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/y8ZtfvK6/IMG-2509.png", สุวรรณภูมิ 
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/90srqGHg/IMG-2569.png", SBT TV 
+http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fLqghbYf/IMG-2589.png", SBB TV
+https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/QNp0bSyq/IMG-2591.png", บุญนิยมทีวี
+https://live.x2.co.th/live/bntv.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Y05JSn4b/IMG-3320.png", สถานีธรรม
+https://live.thaitvstream.com/play/wattasawang/index.m3u8
+
+#EXTINF:-1 tvg-id="Brian.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/SQ72qGNx/IMG-2914.png", Brian TV 
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/zvkLKKx0/IMG-3152.png", มูเตลู
+https://psiiptv-b.sky-cdn.com/ttd25-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/t4vQNs2p/IMG-1852.png", Cable 37 
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/pXYqWmZY/IMG-2378.png", Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Y28Y4BTk/IMG-3154.png", มายา แชนแนล
+http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/vHFdNPh2/IMG-2579.png", Nat TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/gJqf3HZw/IMG-3162.png", แซ่บ ชาแนล
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/mrNtdYc0/IMG-1885.png", บ้านบ้านทีวี
+https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/YC80kygb/IMG-2687.png", ไทบ้านทีวี
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/v8z5TKKC/IMG-2593.png", อีสานทีวี
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/SNpVPq80/IMG-2710.png", MVTV ท้องถิ่นไทย
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/MGHM4rTj/IMG-2560.png", ลั่นทุ่งทีวี
+https://live-us1.thaimomo.com/live-as/chlantung-2/chunklist_w1965870389.m3u8
+
+#EXTINF:-1 tvg-id="Cable.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/d1k9hNx8/IMG-2059.png", LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/chunklist.m3u
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/vB78fwVb/IMG-2172.png", IS TV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/GhqZYyKt/IMG-3165.png", ESC
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/jj3K9r1L/IMG-2125.png", Uniquely TV
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/RCHf48T7/IMG-2558.png", ลูกทุ่งทีวี
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/gkFPkfTH/IMG-2066.png", Active  FM 99
+https://fm99-live-cdn.mcot.net/RadioLive/smil:fm99_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/xj6V8Qj4/IMG-2670.png", MCOT News FM100.5
+https://fm1005-live-cdn.mcot.net/tencentradiolive/smil:fm1005_live_tencent.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/sxyZD7F8/IMG-3510.png", Hot Wave 
+https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/g08JXjKP/IMG-3512.png", Green Wave 
+https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
+
+#EXTINF:-1 tvg-id="TN.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/BvYhFZZM/IMG-3508.png", EFM 94
+https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w696502376.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/wxbhsqVK/IMG-3300.png", MVลาว
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+
+#EXTINF:-1 tvg-id="Cable.us" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/5tGmZMSZ/IMG-2513.png", Hmongstar
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="WhiteChannel.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/L6Xmkswy/IMG-2247.png", White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/C5VDwGcY/IMG-2370.png", Yateem TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMuslimThailand.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/L5yLnqxn/IMG-2581.png", ทีวีมุสลิม
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/NMYy8Cd3/IMG-1851.png", ทีวีรัฐสภา
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/xCf0DWj3/IMG-2519.png", กรมการปกครอง
+http://dopachannel.truegse.com/live/dopatv03.m3u8
+
+#EXTINF:-1 tvg-id="Policetv.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fbzNzJSG/IMG-2597.png", Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/fLYkGVG6/IMG-2587.png", Rama Channel 
+https://ramach.ddns.net/live/ramalive/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/65j5TRMw/IMG-1869.png", ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rchannel.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/qBwcfM7K/IMG-2841.png", R-Channel 
+http://180.180.243.239/streams/3/hls
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/rsxqZcsQ/IMG-1891.png", STOU
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/mkbSf47L/IMG-1917.png", DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XvRdfCLB/IMG-1916.png", DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/KzjwMC98/IMG-1918.png", DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/SRFK1LYC/IMG-1919.png", DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/15VHqysd/IMG-1920.png", DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3w8mnhQY/IMG-1921.png", DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/VLtTnx8K/IMG-1922.png", DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/pT9kxjVs/IMG-1923.png", DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/FFy3Sp6j/IMG-1924.png", DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/43cmgNkz/IMG-1925.png", DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/DZ2FM22f/IMG-1926.png", DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/1zRsWmRm/IMG-1927.png", DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Gh0RWJ3S/IMG-1928.png", DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/vTYrT6GR/IMG-1929.png", DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="DLTV.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/MHfWy961/IMG-1930.png", DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/XqvHyvDR/IMG-3169.png", MVMall Best
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/k4NGtJtv/IMG-3171.png", MVMall Plus 
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/3R214vBf/IMG-3173.png", MVMall Healthy
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/y8Y7Lh39/IMG-3175.png", MVMall DD
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/Y9VRhBTR/IMG-3177.png", MVMall Home 
+https://lb1-live-mv.v2h-cdn.com/hls/ffdf/mvmallhome/mvmallhome.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/x82kssmY/IMG-3179.png", MVMall Trend
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
+
+#EXTINF:-1 tvg-id="Cable.th" group-title="🇹🇭 THAILAND" tvg-logo="https://i.postimg.cc/yNGpSRZ0/IMG-3181.png", MVMall Living 
+https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8

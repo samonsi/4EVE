@@ -1,0 +1,101 @@
+[
+{
+    "group": "บันเทิง",
+    "name": "Warner TV",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+    "file": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd",
+    "keyId": "4503cf86bca3494ab95a77ed913619a0",
+    "key": "afc9c8f627fb3fb255dee8e3b0fe1d71",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "Rock Action",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+    "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd",
+    "keyId": "0f852fb8412b11edb8780242ac120002",
+    "key": "4cbc004d8c444f9f996db42059ce8178",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "Rock Entertainment",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",
+    "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd",
+    "keyId": "e4ee0cf8ca9746f99af402ca6eed8dc7",
+    "key": "be2a096403346bc1d0bb0f812822bb62",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "3BBAsian",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
+    "keyId": "dac6cbd9d17a451bb76386f52469e0e9",
+    "key": "2e2ac52cadf843459915eaa1a9b95e48",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "Mono29Plus",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
+    "keyId": "072eeb02f6744f838fcc8f0ef36b312e",
+    "key": "b797c12f2dd64728aae23fd3c8ef275c",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "HBO",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
+    "keyId": "9c5735afb4fd402580360aed8364469c",
+    "key": "128d55d9ac2b47ad85f86b5d08320179",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "HBO Signature",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd",
+    "keyId": "0db89bae851440a5994f5893ad480494",
+    "key": "d88ef77eaedf4451a65be2e0bf6eabde",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "HBO Hits",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd",
+    "keyId": "7c04b8e7aa524afea879b2ed1aef8242",
+    "key": "91e72b75fcb94c3bb36cceb741afd621",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "HBO Family",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
+    "keyId": "07b138f30ad3441ca5a2f476e550af25",
+    "key": "826ee4deef4b45cfafd5f79a591b15c6",
+    "drm": true
+  },
+  {
+    "group": "บันเทิง",
+    "name": "CINEMAX",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+    "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
+    "keyId": "f48caba466394e93b50780f21798787a",
+    "key": "9a074a10db4342e7937076b3e52f6029",
+    "drm": true
+  },
+  
+  {
+    "group": "บันเทิง",
+    "name": "Hits Movies",
+    "logo": "https://www.fileinw.com/postor/20250830191812Wsport.jpg",
+    "file": "https://live1.inwstream.com/transcoder_F1/hitsmovies_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  }
+ ]
+    

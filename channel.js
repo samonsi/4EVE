@@ -13,17 +13,19 @@ const GROUP_DEFINITIONS = [
         path: "playlists/entertain.json" 
     },
     { 
-        name: "กีฬา", 
+        name: "MONO-AIS", 
+        path: "playlists/monomax_ais.json" 
+    },
+    
+    { 
+        name: "Sports", 
         path: "playlists/sports.json" 
     },
     { 
         name: "Cartoon", 
         path: "playlists/cartoon.json" 
     },
-    { 
-        name: "TH Movies", 
-        path: "playlists/movie-thai.json" 
-    },
+
     // สามารถเพิ่มกลุ่มอื่นๆ ได้ที่นี่
 ];
 

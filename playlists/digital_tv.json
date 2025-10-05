@@ -1,38 +1,153 @@
 [
   {
-    "group": "ดิจิตอลทีวี",
-    "name": "CH5",
-    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-    "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
-    "keyId": "ca20a93cf8e3421dafbd5bdb1990081b",
-    "key": "86ae86a7391c481ea93eecdb740f0a14",
-    "drm": true
+    "group": "ทีวีไทย",
+    "name": "ช่อง 3",
+    "logo": "https://www.tvjaa.com/storage/tv-channels/3hd.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
+    "drm": false
   },
   {
-    "group": "ดิจิตอลทีวี",
+    "group": "ทีวีไทย",
+    "name": "ช่อง 7",
+    "logo": "https://static.thaicom.io/image_channel/images_img_chn_big_Chn_30.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "Thai PBS",
+    "logo": "https://static.thaicom.io/chbig/big_213_20201222073338.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "One31",
+    "logo": "https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "True4U",
+    "logo": "https://static.thaicom.io/image_channel/images_img_chn_big_Chn_16.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
     "name": "NBT",
-    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",
-    "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/3/3.mpd",
-    "keyId": "4d4426a505f64382a9841155d721cee6",
-    "key": "0f4770219ccb4be5836a7517057e51c3",
-    "drm": true
+    "logo": "https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8",
+    "drm": false
   },
   {
-    "group": "ดิจิตอลทีวี",
-    "name": "THAI PBS",
-    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ALTV.PNG",
-    "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/4/4.mpd",
-    "keyId": "1e98456bcbea44b7ad05831387e364ef",
-    "key": "3d14fd4f9d3149a79b35a7124fccbd67",
-    "drm": true
+    "group": "ทีวีไทย",
+    "name": "Amarin",
+    "logo": "https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
+    "drm": false
   },
   {
-    "group": "ดิจิตอลทีวี",
-    "name": "ALT4",
-    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-    "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd",
-    "keyId": "6187523f92b9475bb5b192f70cef1342",
-    "key": "5119311f482144d58dacabc5bc1fa4ba",
-    "drm": true
+    "group": "ทีวีไทย",
+    "name": "T SPORT",
+    "logo": "https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "5HD",
+    "logo": "https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "Boomerang",
+    "logo": "https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "Workpoint",
+    "logo": "https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "GMM25",
+    "logo": "https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "MONO 29",
+    "logo": "https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "Thairath",
+    "logo": "https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "Nation",
+    "logo": "https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "MVMall Trend",
+    "logo": "https://media-mvtv2.imgix.net/channel/89_y_l7aeSDC2FoVrMXdqQ93vutZisHmhxykL.jpg",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "TPBS",
+    "logo": "https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "MCOT",
+    "logo": "https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
+    "drm": false
+  },
+  {
+    "group": "ทีวีไทย",
+    "name": "ช่อง 8",
+    "logo": "https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8",
+    "drm": false
+  },
+
+
+  {
+    "group": "ทีวีไทย",
+    "name": "Nation",
+    "logo": "https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8",
+    "drm": false
+  },
+
+  {
+    "group": "ทีวีไทย",
+    "name": "JKN18",
+    "logo": "https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png",
+    "file": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
+    "drm": false
   }
+
 ]

@@ -1,6 +1,6 @@
 [
 {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "Warner TV",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
     "file": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd",
@@ -9,7 +9,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "Rock Action",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
     "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd",
@@ -18,7 +18,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "Rock Entertainment",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",
     "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd",
@@ -27,7 +27,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "3BBAsian",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
@@ -36,7 +36,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "Mono29Plus",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
@@ -45,7 +45,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "HBO",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
@@ -54,7 +54,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "HBO Signature",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd",
@@ -63,7 +63,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "HBO Hits",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd",
@@ -72,7 +72,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "HBO Family",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
@@ -81,7 +81,7 @@
     "drm": true
   },
   {
-    "group": "บันเทิง",
+    "group": "Entertain",
     "name": "CINEMAX",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
     "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
@@ -89,13 +89,208 @@
     "key": "9a074a10db4342e7937076b3e52f6029",
     "drm": true
   },
-  
+
   {
-    "group": "บันเทิง",
-    "name": "Hits Movies",
-    "logo": "https://www.fileinw.com/postor/20250830191812Wsport.jpg",
-    "file": "https://live1.inwstream.com/transcoder_F1/hitsmovies_inwiptv.stream/chunks.m3u8",
+    "group": "Entertain",
+    "name": "ASIANMORE",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/asianmore_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "DREAMWORKS",
+    "logo": "https://api.bigwifegang.org/images/png/hd-dreamworks.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/dreamwork_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "TFILM 1",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/tfilm1hd_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "TFILM 2",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/tfilm2_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "XZYTE",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+    "file": "https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "MOVIEHITS",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "SERIES",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/trueseries_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "THAIFILM",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/truethaifilm_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "Asian Food Network",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/asianfood_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "MONO29 Plus",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/mono29plus_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "FILM ASIA",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/truefilmasia_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+
+
+  {
+    "group": "Entertain",
+    "name": "CINEMAX",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/cinemax_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "HBO",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/hbohd_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "HBO HITS",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/hbohits_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "HBO Signature",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/hbosignature_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "HBO Family",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/hbofamily_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "Warner TV",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/warnertv_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "Asian Hits",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/asianhits_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+    {
+    "group": "Entertain",
+    "name": "ROCK ENTERTAINMENT",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/rockentertainment_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+    {
+    "group": "Entertain",
+    "name": "ROCK Action",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/rockaction_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "Food Network",
+    "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png",
+    "file": "https://live1.inwstream.com/transcoder_F1/foodnetwork_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+    {
+    "group": "Entertain",
+    "name": "ASIANMORE",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/asianmore_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+
+  {
+    "group": "Entertain",
+    "name": "TFILM 1",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/tfilm1hd_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "TFILM 2",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/tfilm2_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "XZYTE",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp",
+    "file": "https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "MOVIEHITS",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/truemoviehits_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "SERIES",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/trueseries_inwiptv.stream/chunks.m3u8",
+    "drm": false
+  },
+  {
+    "group": "Entertain",
+    "name": "THAIFILM",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp",
+    "file": "https://live1.inwstream.com/transcoder_F1/truethaifilm_inwiptv.stream/chunks.m3u8",
     "drm": false
   }
- ]
+]
+
+
+
     

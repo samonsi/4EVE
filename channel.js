@@ -13,7 +13,7 @@ const GROUP_DEFINITIONS = [
         path: "playlists/entertain.json" 
     },
     { 
-        name: "MONO-AIS", 
+        name: "Max", 
         path: "playlists/monomax_ais.json" 
     },
     
@@ -199,3 +199,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+

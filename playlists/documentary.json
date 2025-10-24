@@ -3,14 +3,14 @@
     "group": "สารคดี",
     "name": "DISCOVERY ASIA",
     "logo": "https://cms.dmpcdn.com/livetv/2018/12/17/978fc2da-8f65-410f-bff8-931b22c37324.png",
-    "file": "https://live1.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/sd-discovery_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "สารคดี",
     "name": "DISCOVERY",
     "logo": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png",
-    "file": "https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-ais-discoverychannel_1080/playlist.m3u8",
     "drm": false
   },
   {
@@ -24,14 +24,14 @@
     "group": "สารคดี",
     "name": "True Explore Wild",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/trueexplorewild_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/sd-expwild_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "สารคดี",
     "name": "True Explore Sci",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/trueexploresci_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/sd-expsci_720/playlist.m3u8",
     "drm": false
   },
 
@@ -39,7 +39,7 @@
     "group": "สารคดี",
     "name": "True Explore Life",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/trueexplorelife_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/sd-explife_720/playlist.m3u8",
     "drm": false
   },
 
@@ -47,21 +47,21 @@
     "group": "สารคดี",
     "name": "Discovery",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
-    "file": "https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-ais-discoverychannel_1080/playlist.m3u8",
     "drm": false
   },
   {
     "group": "สารคดี",
     "name": "Samrujlok",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
-    "file": "https://live1.inwstream.com/transcoder_F1/samrujlok_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-ais-samrujlok_1080/playlist.m3u8",
     "drm": false
   },
   {
     "group": "สารคดี",
     "name": "Animal Show",
     "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",
-    "file": "https://live1.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-ais-animalshow_1080/playlist.m3u8",
     "drm": false
   },
   {

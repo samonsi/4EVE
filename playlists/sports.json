@@ -3,57 +3,52 @@
     "group": "SPORTS",
     "name": "SPOTV",
     "logo": "https://cms.dmpcdn.com/livetv/2021/09/29/186c1140-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-    "file": "https://live1.inwstream.com/transcoder_F1/spotv1_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-spotv1_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "SPOTV2",
     "logo": "https://cms.dmpcdn.com/livetv/2021/09/29/1b2c69c0-20f3-11ec-92df-47614181eee6_webp_320.jpg",
-    "file": "https://live1.inwstream.com/transcoder_F1/spotv2_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-spotv2_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "beIN SPORTS 1",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/bein1_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-bein1_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "beIN SPORTS 2",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/bein2_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-bein2_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "beIN SPORTS 3",
     "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/bein3_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/th-bein3_720/playlist.m3u8",
     "drm": false
   },
 
-  {
-    "group": "SPORTS",
-    "name": "Real Mardid",
-    "logo": "https://cms.dmpcdn.com/livetv/2025/04/02/3d2e68f0-0f99-11f0-974a-f523c0a0f1ce_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/golf_inwiptv.stream/chunks.m3u8",
-    "drm": false
-  },
+
+
   {
     "group": "SPORTS",
     "name": "True Tennis",
     "logo": "https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/tennis_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/hd-tennis_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "NBC GOLF",
     "logo": "https://api.bigwifegang.org/images/png/my-nbcgolf.png",
-    "file": "https://live1.inwstream.com/transcoder_F1/golf_inwiptv.stream/chunks.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/hd-golf2_720/playlist.m3u8",
     "drm": false
   },
   {
@@ -63,46 +58,47 @@
     "file": "https://smart.bengaldigital.live/WWE/index.m3u8",
     "drm": false
   },
-    {
-    "group": "SPORTS",
-    "name": "TRUE SPORT 5",
-    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-    "file": "https://live1.inwstream.com/transcoder_F1/truesport5_inwiptv.stream/chunks.m3u8",
-    "drm": false
-  },
-  {
-    "group": "SPORTS",
-    "name": "TRUE SPORT 7",
-    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-    "file": "https://e101.hellotherepadawan.org/v5/.../th-tsport7_720/playlist.m3u8",
-    "drm": false
-  },
+
   {
     "group": "SPORTS",
     "name": "TRUE SPORT 1",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
-    "file": "https://e101.hellotherepadawan.org/v5/.../th-tsporthd1_720/playlist.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/th-tsporthd1_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "TRUE SPORT 2",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
-    "file": "https://e101.hellotherepadawan.org/v5/.../th-tsporthd2_720/playlist.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/th-tsporthd2_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "TRUE SPORT 3",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",
-    "file": "https://e101.hellotherepadawan.org/v5/.../th-tsporthd3_720/playlist.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/th-tsporthd3_720/playlist.m3u8",
     "drm": false
   },
   {
     "group": "SPORTS",
     "name": "TRUE SPORT 4",
     "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",
-    "file": "https://e101.hellotherepadawan.org/v5/.../th-tsporthd4_720/playlist.m3u8",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/th-tsporthd4_720/playlist.m3u8",
+    "drm": false
+  },
+      {
+    "group": "SPORTS",
+    "name": "TRUE SPORT 5",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/vx-origin/sd-tsport5_720/playlist.m3u8",
+    "drm": false
+  },
+  {
+    "group": "SPORTS",
+    "name": "TRUE SPORT 7",
+    "logo": "https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+    "file": "https://la5.youllneverwalkalone.online:9310/v5/PANZkz550fEWtHa3DhiRTw/1761221181/00189c7b9ff9428df9c82659ea8fb325/_WxP5da_ZxCi4bWRPyuRLw/1761231861/live/th-tsport7_720/playlist.m3u8",
     "drm": false
   }
 ]

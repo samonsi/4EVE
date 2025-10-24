@@ -17,10 +17,10 @@ const GROUP_DEFINITIONS = [
         path: "playlists/monomax_ais.json" 
     },
     
-  //  { 
-  //      name: "Sports", 
- //       path: "playlists/sports.json" 
- //   },
+    { 
+        name: "Sports", 
+        path: "playlists/sports.json" 
+    },
     { 
         name: "Cartoon", 
         path: "playlists/cartoon.json" 
@@ -199,4 +199,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
+
 
